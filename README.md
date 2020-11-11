@@ -14,13 +14,27 @@
 2. [Vancouver    2019 January to December](https://www.mobibikes.ca/en/system-data)
 
 ## Dataset Summary (What are we targeting for with this dataset?)
-• Look for patterns in bike share ridership usage. Examine relationships between location and usage, usage and times of day, trends in usage over the course of the year, membership type usage. The dataset looks at bikeshare anomalies such as Trip start day and time, Trip end day and time, Trip duration, Trip start station, Trip end station, User type between the cities Toronto, Montreal, Vancouver and New York for the year 2019.
+With this dataset, we are aiming to look at if the bike share program is a necessity that can be implemented in other cities. By analysing patterns of ridership usage, it allows us to interpret the data. Which, in return, suggests a better comprehension of the trends concerning the Bike Share program. We aim to look at factors such as trip start time, trip end time, trip duration, trip start station, trip end station, and user type between the cities Toronto and Vancouver in 2019. An analysis of the effectiveness and efficiency of the bike share program in Toronto and Vancouver will onset the decision to implement this program in other cities as an eco and user-friendly program promoting health, eco-friendly transportation and tourism.
+
 
 ## Key Questions
-1. What is the total number of trips taken within the year 2019?
-2. In which quarter is the bike share usage popular in?
-3. What is the average trip duration on an annual basis? What is the average trip duration on a quarterly basis? Compare the annual and quarterly average trip duration. What do you notice?
-4. In the span of 24hrs, at which time of the day are bike rides popular?
-5. Bikeshare consists of club members and public users. What percentage of the Bikeshare users are club members vs. public users? Which one of these user types are more frequent users of the Bikeshare?
+1. How many individuals use the Bikeshare program? What is the total number of trips taken within the year 2019?
+2. In which season is the bike share usage most popular?
+3. What are the users' primary motive for use of Bikeshare? What is the most popular station? From the placement of the station, can you determine the purpose of use for the bike (i.e. commuter, liesure, recreational)?
+4. Do individuals tend to stay within the basic 30-minute alloted time, given that usage fees apply after 30 minutes? What is the average trip duration? What is the average trip duration on a quarterly basis?
+5. What is the peak time of use for Bikeshare?
+6. Which of these user types are more frequent users of the Bikeshare program? What percentage of the Bikeshare users are club members vs. public users?
 
+## Analysis
+1. There are a total of 2,439,517 trips in Toronto and 891,234 in Vancover for the whole of 2019. Majority of these trips are made in the third quarter of the year when the weather is warmer.
+2. In the course of the year, the highest bikeshare usage is in the summer months, specifically in August. Bikeshare usage is highest on Wednesdays for Toronto and _______ for Vancouver.
+"3. Generally, the most popular station in Toronto is at station number 7076 located at York St/Queensway W. It is interesting to note that, for annual members, this location is the popular destination for bike users starting from the Sherbourne / Wellesley station while for casual users, the union station and this York St/Queensway W station is the most popular starting point and end point.
+In Vancouver, the most popular station is located at Stanley Park Information booth."
+4. The average trip duration varies per quarter for both cities; the longest in the third quarter for Toronto and in the second quarter for Vancouver. Add observation for average trip duration for the whole year
+5. In the course of a whole day for both cities, more members use the bikeshare program between 3pm to 6pm.
+6. In Toronto, casual members make up 89% of the total bikeshare program users and 11% are annual members. However, the majority of the trips are taken by annual members. Data shows that annual members have the highest usage all days of the week but drops in the weekends. Bikeshare usage for casual members goes up on the weekends.  
+    * ADD observations for Vancouver
+
+## Summary Findings
+In summary, as the Ministry of Transportation of the regional municipality of Waterloo, we hoped to gather data on the Bikeshare program from two cities, Toronto & Vancouver. Insight into the efficiency and effectiveness in the usage of the program will reiterate means of implementing a similar program within our municipality. The data analysis of the two cities suggests the bikes share usage is most prevalent during the week as a mean of commuter transportation and tourist attraction. By looking at the frequency in use of specific station locations, time frame, usage of the bike share, and the user types, we can conclude that the bike share is a useful program to implement. It is a great program that brings awareness to local tourism, pushes to be eco friendly and improve daily live style (i.e. through exercise), and brings in the form of revenue that can be put towards improving our municipality.
 
