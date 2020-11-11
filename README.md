@@ -28,8 +28,8 @@ With this dataset, we are aiming to look at if the bike share program is a neces
 ## Analysis
 1. There are a total of 2,439,517 trips in Toronto and 891,234 in Vancover for the whole of 2019. Majority of these trips are made in the third quarter of the year when the weather is warmer.
 2. In the course of the year, the highest bikeshare usage is in the summer months, specifically in August. Bikeshare usage is highest on Wednesdays for Toronto and _______ for Vancouver.
-"3. Generally, the most popular station in Toronto is at station number 7076 located at York St/Queensway W. It is interesting to note that, for annual members, this location is the popular destination for bike users starting from the Sherbourne / Wellesley station while for casual users, the union station and this York St/Queensway W station is the most popular starting point and end point.
-In Vancouver, the most popular station is located at Stanley Park Information booth."
+3. Generally, the most popular station in Toronto is at station number 7076 located at York St/Queensway W. It is interesting to note that, for annual members, this location is the popular destination for bike users starting from the Sherbourne / Wellesley station while for casual users, the union station and this York St/Queensway W station is the most popular starting point and end point.  
+    In Vancouver, the most popular station is located at Stanley Park Information booth.
 4. The average trip duration varies per quarter for both cities; the longest in the third quarter for Toronto and in the second quarter for Vancouver. Add observation for average trip duration for the whole year
 5. In the course of a whole day for both cities, more members use the bikeshare program between 3pm to 6pm.
 6. In Toronto, casual members make up 89% of the total bikeshare program users and 11% are annual members. However, the majority of the trips are taken by annual members. Data shows that annual members have the highest usage all days of the week but drops in the weekends. Bikeshare usage for casual members goes up on the weekends.  
