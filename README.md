@@ -26,7 +26,7 @@ With this dataset, we are aiming to look at if the bike share program is a neces
 6. Which of these user types are more frequent users of the Bikeshare program? What percentage of the Bikeshare users are club members vs. public users?
 
 ## Analysis
-1. There are a total of 2,439,517 trips in Toronto and 891,234 in Vancover for the whole of 2019. Majority of these trips are made in the third quarter of the year when the weather is warmer.
+1. There are a total of 2,439,517 trips in Toronto and 891,051 in Vancover for the whole of 2019. Majority of these trips are made in the third quarter of the year when the weather is warmer.
 2. In the course of the year, the highest bikeshare usage is in the summer months, specifically in August. Bikeshare usage is highest on Wednesdays for both Toronto and Vancouver.
 3. Generally, the most popular station in Toronto is at station number 7076 located at York St/Queensway W. It is interesting to note that, for annual members, this location is the popular destination for bike users starting from the Sherbourne / Wellesley station while for casual users, the union station and this York St/Queensway W station is the most popular starting point and end point.  
     In Vancouver, the most popular station is located at Stanley Park Information booth.
@@ -42,3 +42,9 @@ In summary, as the Ministry of Transportation of the regional municipality of Wa
 * Due to GitHub's upload file size limit of 100MB, files in Resources/Toronto folder are stored in .gitignore
 * Membership ID information is not included in the Vancouver data set, we cannot quantify how many individuals are registered in the bikeshare program.
 
+## inclusions
+1. this README.md file
+2. BikeShare2019.ipynb - Toronto notebook
+3. BikeShare2019Vancouver.ipynb - Vancouver notebook
+4. Project-BikeShare2019.ipynb - execute this notebook to run Toronto and Vancouver notebooks
+5. Prohe
