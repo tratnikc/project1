@@ -48,3 +48,10 @@ In summary, as the Ministry of Transportation of the regional municipality of Wa
 3. BikeShare2019Vancouver.ipynb - Vancouver notebook
 4. Project-BikeShare2019.ipynb - execute this notebook to run Toronto and Vancouver notebooks
 5. Project-Proposal-Outline.docx
+6. Datasets
+   * Toronto file in Resources/Toronto folder
+   * Vancouver file in Resources/Vancouver folder
+7. Plots in Images folder
+    * Images/Toronto
+    * Images/Vancouver
+
