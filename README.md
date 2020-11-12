@@ -38,3 +38,7 @@ With this dataset, we are aiming to look at if the bike share program is a neces
 ## Summary Findings
 In summary, as the Ministry of Transportation of the regional municipality of Waterloo, we hoped to gather data on the Bikeshare program from two cities, Toronto & Vancouver. Insight into the efficiency and effectiveness in the usage of the program will reiterate means of implementing a similar program within our municipality. The data analysis of the two cities suggests the bikes share usage is most prevalent during the week as a mean of commuter transportation and tourist attraction. By looking at the frequency in use of specific station locations, time frame, usage of the bike share, and the user types, we can conclude that the bike share is a useful program to implement. It is a great program that brings awareness to local tourism, pushes to be eco friendly and improve daily live style (i.e. through exercise), and brings in the form of revenue that can be put towards improving our municipality.
 
+## Limitations
+* Due to GitHub's upload file size limit of 100MB, files in Resources/Toronto folder are stored in .gitignore
+* Membership ID information is not included in the Vancouver data set, we cannot quantify how many individuals are registered in the bikeshare program.
+
